@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Stack",
+  "description": "An interactive and beautifully animated 5-bubble stacking sandbox featuring spring physics, customizable styles, and tactile feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
